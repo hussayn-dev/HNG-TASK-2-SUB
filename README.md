@@ -1,6 +1,12 @@
-##HNGI9 stage2(bankend) subtask...
+#HNGI9 stage2(bankend) subtask...
+
+
 late submission - Ui TEST
+
+
 #Copy the full path of the team csv, you want to parse. For example :
+
+
 */home/hussayn/Desktop/Big Projects/HNG9-TASK2/inputs/NFT Naming csv - All Teams.csv
 
 make sure you have node installed and updated

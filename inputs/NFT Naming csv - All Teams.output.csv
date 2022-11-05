@@ -1,0 +1,2 @@
+format,name,description,minting_tool,sensitive_content,series_number,series_total,attributes,collection.name,collection.id,collection.attributes,Hash-value
+CHIP-0007,adewale-the-amebo,undefined,,false,undefined,380,"[{""trait_type"":""Gender""}]",Zuri NFT Tickets for Free lunch,cad316c3-37f8-4b27-9f53-9d803bfcfee7,"[{""type"":""description"",""value"":""Rewards for accomplishments during HNGi9""}]",fb42cae2afbfffc3eb75af7d99698419908179a1da6d28b29984e6096f5e76a9
